@@ -34,16 +34,6 @@ This tool demonstrates arithmetic compression by encoding a string into a single
 
 ---
 
-## 📂 Folder Structure
-
-FloatingPointArithmeticCompression/
-├── floating/
-│ ├── input.txt # Text to compress
-│ ├── compressed.bin # Binary file storing the float
-│ ├── ranges.txt # Stores character probability ranges
-│ └── decompressed.txt # Output after decompression
-├── main.py # Main script with all logic
-└── README.md
 Choose an option:
 1. Compress string
 2. Decompress string
